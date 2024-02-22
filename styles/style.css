@@ -153,4 +153,13 @@ body {
     .foto__perfil {
         width: auto;
     }
+
+    .apresentacao__curriculo__all {
+        padding: 3% 5%;
+        flex-direction: column-reverse;
+    }
+
+    .apresentacao__curriculo {
+        width: auto;
+    }
 }
